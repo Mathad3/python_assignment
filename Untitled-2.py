@@ -20,6 +20,6 @@ Dict= {}
 print("Emoty Dictionary")
 print(Dict)
 Dict2= {125:"Comtech",'Location':"Dharwad"}
-Dict2=['location'] = 
+
 string1= Dict2[125]+Dict2['Location']
 print(string1)
