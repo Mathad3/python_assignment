@@ -1,4 +1,4 @@
-a=10
+a=20
 print("Type of a:",type(a))
 
 # list1=[1,2,3]
