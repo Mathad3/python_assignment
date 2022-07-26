@@ -1,7 +1,7 @@
 a=20
 print("Type of a:",type(a))
 print("Type of a:",type(a))
-
+print("Type of a:",type(a))
 
 # list1=[1,2,3]
 # list2=[4,5,6]
