@@ -18,7 +18,7 @@
 # print(id(b))
 x=24
 y=20
-list=[10,20,30,40,50]
+list=[10,20,30,40,50,60]
 if(x not in list):
     print("x is NOT present in given list")
 else:
